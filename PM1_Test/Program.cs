@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, Visual Studio !!");
+﻿Console.WriteLine("Hello, LC1D!");
